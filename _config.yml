@@ -7,21 +7,21 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-# mailchimp-list: ''
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-# email: 
+email: ''
 
 # Authors
 authors:
   hrisc:
     name: Hrishit Chaudhuri
     display_name: hrishitchaudhuri
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 
     email: 34icecreamsandwich@gmail.com
-    # web: https://www.wowthemes.net/donate/
-    # twitter: https://twitter.com/wowthemesnet
-    # description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: 
+    twitter: 
+    description: ""
     
 # Plugins
 plugins:
