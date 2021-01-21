@@ -1,7 +1,7 @@
 # Site
-name: "Quietly"
-title: ""
-description: ""
+name: "quietly"
+title: "writing about just about everything"
+description: "This is mainly meant to be a personal blog and will encompass just about anything and everything with the possible exception of sporting events. If you're here looking for sporting events, may I suggest visiting ESPN instead?"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
